@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**virajt71/virajt71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak Stats"/>
+</div>
+
+## 🎮 Featured Projects
+
+### [React Tetris](https://github.com/YOUR_USERNAME/react-tetris)
+A modern, responsive Tetris game built with React featuring:
+- Touch and keyboard controls
+- Progressive difficulty system
+- 3D visual themes
+- Mobile-responsive design
+
+### [Project 2 Name]
+Brief description of another cool project you've built
+
+### [Project 3 Name]
+Brief description of another project
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-tamakuwala-329363176/)
+
+## 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  
+### Show some ❤️ by starring some of my repositories!
+
+</div>
