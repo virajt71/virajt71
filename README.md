@@ -40,11 +40,6 @@ Brief description of another project
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=virajt71&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
-
-</div>
