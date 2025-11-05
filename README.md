@@ -18,15 +18,11 @@
 
 ## 🎮 Featured Projects
 
-### [React Tetris](https://github.com/virajt71/react-tetris)
-A modern, responsive Tetris game built with React featuring:
-- Touch and keyboard controls
-- Progressive difficulty system
-- 3D visual themes
-- Mobile-responsive design
-
-### [Project 2 Name]
-Brief description of another cool project you've built
+### [Azure Infrastructure with Entra ID & RBAC Management](https://github.com/virajt71/entra_id_managment)
+- Enterprise Terraform solution for Azure infrastructure across Dev, Staging, and Prod environments
+- CSV-driven user provisioning with automatic Azure AD group creation and department-based membership
+- Matrix-based RBAC assignments for granular access control per team per environment
+- Modular architecture with remote state composition for scalable, maintainable IaC deployments
 
 ## 🤝 Connect with Me
 
