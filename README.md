@@ -11,9 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajt71&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" height="180"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=virajt71&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak Stats"/>
-</div>
+</div> -->
 
 ## 🎮 Featured Projects
 
